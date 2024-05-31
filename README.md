@@ -1,9 +1,10 @@
-A Health Assistance Web Application
+                                                                        A HEALTH ASSISTANCE WEB APPLICATION
 INTRODUCTION
 Life Line is a comprehensive health assistance web application designed to provide patients, doctors, hospitals, pathology labs, medical stores, and ambulance services a unified platform for managing health-related activities. It aims to streamline healthcare processes, making it easier for patients to access medical services, manage health records, book appointments, and compare costs, all in one place. This application ensures that patients receive timely medical attention and the best possible care by leveraging modern technology.                                          
+
+
 PROPOSED SYSTEM
 The proposed Life Line application offers several key services and features:
-
 Authentication and Authorization: Secure login and registration for patients, doctors, and administrators with role-based access control.
 Patient Portfolio Service:
 Health records: Store and manage medical checkup history.
@@ -40,7 +41,6 @@ View travel history: View history of ambulance bookings.
 
 EXISTING SYSTEM
 The existing healthcare systems are often fragmented, with patients having to navigate multiple platforms and services to manage their health needs. Key challenges include:
-
 Lack of Integration: Separate systems for hospitals, pathology labs, medical stores, and ambulance services, leading to inefficiencies and data silos.
 Manual Processes: Many healthcare processes are still manual, requiring patients to physically visit hospitals or clinics to book appointments and access health records.
 Limited Access to Information: Patients often struggle to find relevant information about doctors, hospital facilities, and treatment options.
